@@ -1,0 +1,4 @@
+ffi blobText
+include blobText.h
+link blobText.o
+effectful BlobText.blobText

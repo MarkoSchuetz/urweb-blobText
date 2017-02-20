@@ -1,0 +1,1 @@
+val blobText : blob -> string
